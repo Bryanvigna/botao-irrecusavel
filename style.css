@@ -25,7 +25,19 @@ button{
     border-radius: 10px;
     font-size: 1.2em;
 }
-a{
+#sim{
     text-decoration: none;
     color: black;
+}
+footer{
+    text-align: center;
+    vertical-align: bottom;
+    margin-top: 50px;
+}
+#git{
+    text-decoration: underline;
+    color: black;
+}
+#git:hover{
+    color: rgb(11, 11, 136);
 }
