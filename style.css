@@ -1,0 +1,31 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:#00BDAE;
+}
+.conteudo{
+    text-align: center;
+}
+h1{
+    padding: 20px;
+}
+button{
+    position: relative;
+    width: 70px;
+    height: 40px;
+    cursor: pointer;
+    margin-right: 5px;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    border: 1.8px solid black;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
